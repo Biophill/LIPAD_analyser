@@ -1,0 +1,812 @@
+year,party,intervention,environment,climate change,coal,nuclear,gas,oil,petrol,solar power,wind power
+1946,Progressive Conservative,10692,2,None,102,3,37,140,3,None,1
+1948,Liberal,16392,4,None,114,1,61,168,19,None,1
+1973,Progressive Conservative,19871,400,None,118,37,319,827,242,1,1
+1975,Progressive Conservative,16532,291,1,47,121,450,671,250,None,3
+1975,Liberal,23973,336,1,46,183,356,493,190,1,1
+1976,Progressive Conservative,14901,335,None,44,190,175,338,54,None,3
+1976,Liberal,20417,267,None,33,151,145,244,53,4,2
+1976,Social Credit,1102,16,None,1,2,32,28,2,None,1
+1976,New Democratic Party,4322,112,None,21,83,64,144,39,1,1
+1977,Progressive Conservative,16764,314,None,59,127,244,388,38,3,1
+1977,Social Credit,991,21,None,1,6,46,41,4,None,1
+1978,Progressive Conservative,13109,289,1,41,75,184,324,87,1,1
+1980,Progressive Conservative,10571,225,1,136,69,578,946,165,2,1
+1981,Progressive Conservative,15279,265,None,102,72,881,1115,279,2,2
+1982,Liberal,20631,178,None,73,85,387,487,163,None,1
+1985,Progressive Conservative,25634,420,1,77,97,331,426,119,1,1
+1988,Liberal,8938,281,None,93,104,166,161,18,None,1
+1989,New Democratic Party,4484,435,3,37,73,95,199,16,2,2
+1990,New Democratic Party,6022,538,6,47,61,118,232,17,None,1
+1991,Progressive Conservative,13572,439,7,85,55,120,205,17,1,1
+1994,Reform,5958,272,1,38,16,94,123,14,1,1
+1997,Liberal,8061,393,69,34,64,136,59,17,None,3
+1997,Reform,4463,192,9,35,23,133,54,6,None,2
+1997,New Democratic Party,1166,100,12,19,15,47,24,2,None,1
+1999,Reform,6223,190,2,50,30,76,116,5,None,1
+2000,Canadian Alliance,75,1,None,None,None,14,6,None,None,1
+2000,New Democratic Party,1897,150,4,79,14,84,94,8,None,1
+2001,New Democratic Party,2157,290,13,53,39,98,97,3,3,8
+2001,Liberal,11369,663,66,140,77,193,192,11,1,7
+2001,Canadian Alliance,6220,329,15,182,56,154,233,10,4,6
+2001,Progressive Conservative,1827,131,8,76,22,54,78,6,None,2
+2002,Bloc Québécois,3337,316,47,71,93,180,111,9,1,23
+2002,Canadian Alliance,6377,581,96,128,78,242,249,15,4,15
+2002,Liberal,11121,654,190,103,88,310,193,22,5,12
+2002,New Democratic Party,1889,237,27,39,65,91,76,2,3,6
+2002,Progressive Conservative,1748,117,22,35,15,54,47,1,1,4
+2003,Liberal,10019,438,68,96,82,160,126,11,3,6
+2003,Bloc Québécois,2916,158,6,53,29,174,140,6,None,3
+2004,Liberal,9444,547,57,46,35,210,159,16,None,11
+2004,Bloc Québécois,2842,172,11,27,14,134,113,33,None,6
+2005,Liberal,10752,732,152,71,13,377,189,26,2,35
+2005,Bloc Québécois,3392,255,19,52,6,211,176,31,2,5
+2005,Conservative,8071,419,30,110,16,334,285,15,2,5
+2005,New Democratic Party,2195,275,35,30,7,131,96,5,None,2
+2006,Liberal,7524,603,198,90,18,217,120,12,1,19
+2006,Bloc Québécois,3093,286,69,37,8,234,182,27,None,6
+2006,Conservative,10677,657,114,46,23,365,191,15,None,3
+2006,New Democratic Party,3921,321,124,59,11,172,157,7,2,3
+2007,Liberal,8717,586,267,61,59,270,161,10,2,15
+2007,Bloc Québécois,3502,339,100,57,47,296,297,29,1,7
+2007,New Democratic Party,4841,381,147,58,39,235,235,19,None,5
+2007,Conservative,12362,848,225,81,75,602,178,16,4,3
+2008,New Democratic Party,3497,298,105,68,98,198,224,12,5,7
+2008,Liberal,6953,408,105,62,71,205,132,10,1,3
+2008,Bloc Québécois,2780,198,28,60,56,149,210,25,None,3
+2008,Conservative,10054,497,77,176,58,373,202,17,4,3
+2009,New Democratic Party,6650,611,145,110,82,213,213,8,6,12
+2009,Liberal,9156,474,169,69,100,203,144,30,4,9
+2009,Bloc Québécois,4434,421,119,98,58,244,315,7,1,7
+2009,Conservative,13468,618,133,142,104,224,181,9,1,6
+2010,New Democratic Party,6075,576,134,77,79,240,345,38,3,5
+2010,Liberal,8176,470,140,58,60,151,224,20,2,3
+2010,Conservative,12269,669,89,304,71,223,224,30,1,3
+2010,Bloc Québécois,3872,310,99,53,58,171,262,21,1,2
+2011,Conservative,12737,501,65,199,34,272,217,13,None,2
+2011,New Democratic Party,9010,474,163,75,20,221,359,13,1,1
+2011,Liberal,5257,264,96,31,28,74,106,2,None,1
+2012,Liberal,5344,441,70,31,30,86,151,4,None,1
+2013,Conservative,14842,626,83,108,78,438,298,56,None,3
+2013,New Democratic Party,11652,883,201,101,110,290,500,48,2,3
+2014,New Democratic Party,13401,1010,215,83,128,424,650,38,1,3
+2014,Liberal,4914,244,55,44,31,106,137,13,1,1
+2014,Conservative,16871,787,85,158,119,449,354,36,1,1
+2015,New Democratic Party,7224,511,140,73,22,181,407,13,1,1
+2016,Liberal,9467,528,206,180,14,113,167,3,2,2
+2016,Conservative,6230,289,69,117,12,150,278,13,2,1
+1991,Liberal,7334,308,2,64,37,116,193,19,None,None
+1942,National Government,8689,None,None,37,None,127,155,24,None,None
+1925,United Farmers of Ontario,10,None,None,None,None,None,None,None,None,None
+1984,New Democratic Party,5591,162,1,53,135,96,189,59,None,None
+1929,United Farmers of Ontario,3,None,None,None,None,None,None,None,None,None
+1928,United Farmers of Ontario,1,None,None,None,None,None,None,None,None,None
+1937,Conservative (1867-1942),6105,3,None,27,None,20,90,1,None,None
+1992,Liberal,7137,422,12,83,23,148,146,21,1,None
+1989,Progressive Conservative,13450,562,1,40,59,118,196,25,None,None
+1945,Bloc populaire canadien,28,None,None,None,None,2,2,None,None,None
+1988,Independent,14,None,None,None,None,None,None,1,None,None
+2014,Green,614,59,19,5,11,36,39,3,None,None
+1939,Liberal,16036,5,None,148,None,55,187,4,None,None
+1929,Conservative (1867-1942),10222,1,None,107,None,34,71,1,None,None
+1928,Conservative (1867-1942),10994,6,None,153,None,41,103,4,None,None
+1911,Independent Conservative,137,None,None,3,None,None,None,None,None,None
+1967,Social Credit,803,5,None,12,2,14,14,2,None,None
+1946,Bloc populaire canadien,59,None,None,1,None,None,1,None,None,None
+1937,Co-operative Commonwealth Federation (C.C.F.),1642,1,None,4,None,14,22,3,None,None
+1924,Liberal,16197,10,None,202,None,50,112,10,None,None
+1947,Liberal Progressive,2,None,None,None,None,None,None,None,None,None
+1959,Liberal Labour,830,None,None,None,None,5,9,None,None,None
+1947,Independent,247,None,None,1,None,6,11,1,None,None
+1925,Conservative (1867-1942),12052,2,None,159,None,39,80,9,None,None
+1988,New Democratic Party,8998,430,3,88,261,162,203,25,None,None
+1992,Progressive Conservative,13930,558,19,67,40,129,127,29,None,None
+1989,Liberal,7687,434,None,42,92,135,194,19,None,None
+1930,Independent Liberal,2,None,None,None,None,None,None,None,None,None
+2015,Green,386,28,20,9,5,21,33,4,None,None
+2012,Bloc Québécois,302,28,None,None,None,21,7,1,None,None
+1936,Conservative (1867-1942),9485,1,None,58,None,33,84,6,None,None
+1943,Bloc populaire canadien,50,None,None,1,None,1,3,None,None,None
+1908,Independent Conservative,81,None,None,None,None,None,1,None,None,None
+1963,Liberal Labour,79,None,None,3,1,None,1,None,None,None
+1936,Co-operative Commonwealth Federation (C.C.F.),2169,4,None,15,None,19,32,2,None,None
+1961,New Democratic Party,480,None,None,3,55,3,10,None,None,None
+1920,Independent,40,None,None,1,None,1,1,None,None,None
+1949,Social Credit,1382,2,None,18,None,42,63,5,None,None
+1903,Independent Labour,141,None,None,1,None,None,3,None,None,None
+1958,Independent,9,None,None,None,None,1,None,None,None,None
+1905,Independent Conservative,546,None,None,6,None,4,4,None,None,None
+2003,Progressive Conservative,1541,56,1,14,11,25,38,None,None,None
+1984,Independent,80,None,None,None,3,1,5,None,None,None
+1901,Conservative (1867-1942),8850,None,None,60,None,18,72,None,None,None
+2004,Independent,22,None,None,None,None,None,None,None,None,None
+1978,Independent,166,1,None,None,None,1,None,None,None,None
+1911,Independent Liberal,10,None,None,None,None,1,None,None,None,None
+1915,Liberal,8802,None,None,61,None,57,65,2,None,None
+1971,Liberal Labour,47,1,None,None,None,None,None,None,None,None
+1945,Labour Progressive,70,None,None,3,None,2,1,None,None,None
+1921,Liberal,1187,None,None,7,None,4,5,None,None,None
+1936,Liberal Progressive,114,1,None,1,None,2,3,None,None,None
+1920,United Farmers,188,None,None,2,None,None,None,None,None,None
+1951,Social Credit,1982,1,None,28,None,46,77,None,1,None
+1936,Independent,270,None,None,7,None,2,3,None,None,None
+1919,Progressive,194,None,None,1,None,None,None,None,None,None
+1957,Social Credit,1964,1,None,35,3,33,64,2,None,None
+1958,Co-operative Commonwealth Federation (C.C.F.),4678,11,None,26,25,43,97,6,None,None
+1952,Independent Liberal,22,1,None,None,None,2,3,None,None,None
+2007,Independent,79,3,1,None,None,2,3,None,None,None
+1968,Liberal Labour,9,None,None,None,None,None,None,None,None,None
+1965,Liberal Labour,27,None,None,7,None,None,None,None,None,None
+2016,Green Party,213,20,7,3,1,10,7,2,None,None
+1920,Conservative (1867-1942),1374,None,None,5,None,8,12,None,None,None
+1910,Liberal-Conservative,758,1,None,8,None,2,7,None,None,None
+2015,Independent,256,6,None,1,None,None,11,1,None,None
+1993,Progressive Conservative,8772,424,14,20,8,68,78,19,None,None
+1923,Independent Progressive,336,None,None,3,None,3,5,None,None,None
+1912,Liberal,4892,3,None,40,None,31,39,1,None,None
+1960,New Party,28,None,None,None,None,None,None,None,None,None
+1956,Independent Liberal,4,None,None,None,None,None,None,None,None,None
+1944,Liberal,20404,5,None,128,None,116,280,25,None,None
+1901,Independent,358,None,None,4,None,3,6,None,None,None
+1964,Progressive Conservative,19874,17,None,55,110,109,205,18,None,None
+1969,Independent,4766,None,None,4,1,3,7,None,None,None
+1936,Reconstruction,419,None,None,2,None,None,4,None,None,None
+1947,Co-operative Commonwealth Federation (C.C.F.),6101,5,None,90,2,45,93,9,None,None
+1993,Liberal,4577,427,3,38,15,65,76,14,None,None
+1955,Independent Liberal,6,None,None,None,None,None,None,None,None,None
+1964,Liberal,24849,23,None,36,60,87,179,10,None,None
+1945,Independent C.C.F.,37,1,None,None,None,None,1,None,None,None
+2014,Independent,179,6,None,None,None,2,13,None,None,None
+1916,Liberal-Conservative,365,None,None,2,None,1,2,None,None,None
+1969,New Democratic Party,6830,58,None,19,45,94,206,13,None,None
+1953,Liberal Labour,89,None,None,2,None,None,1,None,None,None
+2002,Independent,5,None,None,None,None,None,None,None,None,None
+1944,Progressive Conservative,2102,1,None,10,None,5,23,3,None,None
+1946,Independent C.C.F.,93,None,None,1,None,1,None,None,None,None
+1937,Independent,196,None,None,2,None,1,4,None,None,None
+1954,Liberal Labour,410,None,None,None,None,5,1,1,None,None
+1937,Liberal Progressive,162,None,None,None,None,None,None,None,None,None
+1929,Independent,296,None,None,2,None,2,3,None,None,None
+1928,Independent,235,None,None,11,None,3,11,None,None,None
+1929,Liberal Progressive,836,None,None,3,None,1,7,1,None,None
+1928,Liberal Progressive,517,None,None,None,None,1,5,1,None,None
+1930,Independent Conservative,2,None,None,None,None,None,1,None,None,None
+1978,New Democratic Party,3761,79,None,29,15,118,173,34,None,None
+2004,New Democratic Party,1872,149,12,10,26,62,84,1,None,None
+1929,Labour,1247,2,None,8,None,4,3,None,None,None
+1928,Labour,958,None,None,15,None,7,13,None,None,None
+1997,Independent,66,None,None,None,None,None,None,None,None,None
+1921,Laurier Liberal,9363,1,None,103,None,79,98,11,None,None
+1902,Independent Labour,54,None,None,None,None,1,3,None,None,None
+1909,Independent Conservative,109,None,None,1,None,3,1,None,None,None
+1995,Reform,6324,262,None,46,24,138,98,24,None,None
+1979,Independent Liberal,3,None,None,None,None,None,None,None,None,None
+1937,Reconstruction,159,None,None,None,None,1,3,None,None,None
+1967,Ralliement Créditiste,1094,3,None,2,5,8,21,None,None,None
+1950,Independent Liberal,6,None,None,None,None,1,2,None,None,None
+1925,Labour,989,1,None,33,None,2,13,None,None,None
+1908,Independent Liberal,23,None,None,None,None,None,None,None,None,None
+1961,Co-operative Commonwealth Federation (C.C.F.),5073,6,None,37,39,74,124,9,None,None
+1923,Independent Conservative,199,None,None,9,None,4,1,None,None,None
+1925,Independent,65,None,None,1,None,1,None,None,None,None
+1996,Independent,30,None,None,None,None,1,1,None,None,None
+1956,Liberal,19945,9,None,91,22,298,237,27,None,None
+1944,Independent Liberal,120,None,None,1,None,2,6,None,None,None
+1931,Liberal,11996,2,None,124,None,80,118,5,None,None
+1940,Social Credit,927,2,None,25,None,12,28,2,None,None
+1919,Unionist (Liberal),1953,None,None,17,None,9,17,None,None,None
+1985,Liberal,11875,212,None,57,98,344,481,78,None,None
+1932,Progressive Conservative,16,None,None,None,None,None,None,None,None,None
+1963,New Democratic Party,4496,12,None,14,131,23,57,7,None,None
+1961,Liberal Labour,1470,None,None,3,1,4,3,2,None,None
+1991,Independent Conservative,91,None,None,6,None,None,1,None,None,None
+1955,Progressive Conservative,9927,4,None,53,27,125,153,14,None,None
+1942,Co-operative Commonwealth Federation (C.C.F.),2544,5,None,50,None,35,67,1,None,None
+1999,Bloc Québécois,3332,147,4,41,17,78,73,3,None,None
+1942,Conservative (1867-1942),883,None,None,5,None,12,11,1,None,None
+1902,Conservative (1867-1942),7519,None,None,78,None,47,149,5,None,None
+1979,Progressive Conservative,8493,198,None,55,51,181,404,90,1,None
+1960,Liberal,17853,15,None,106,187,72,111,10,None,None
+1952,Liberal,13569,3,1,53,1,111,167,18,None,None
+1950,Progressive Conservative,9279,1,None,68,4,185,191,20,None,None
+2001,Bloc Québécois,3397,273,24,104,58,118,97,13,None,None
+1939,Independent Conservative,20,None,None,None,None,1,3,None,None,None
+1911,Liberal,11072,1,None,112,None,52,110,3,None,None
+1924,Independent Conservative,242,None,None,12,None,2,5,None,None,None
+1977,New Democratic Party,5535,100,None,28,34,143,242,34,None,None
+1953,Co-operative Commonwealth Federation (C.C.F.),3388,2,None,50,None,25,77,2,None,None
+1992,Independent Conservative,106,1,None,None,None,1,None,None,None,None
+1954,Co-operative Commonwealth Federation (C.C.F.),5265,3,None,63,4,46,68,3,None,None
+1960,Progressive Conservative,27096,38,1,92,198,140,260,33,None,None
+1979,Liberal,10434,110,None,34,34,234,477,100,None,None
+1940,United Farmers of Ontario-Labour,5,None,None,None,None,None,None,None,None,None
+1950,Liberal,13372,5,None,104,None,190,191,25,None,None
+1908,Liberal,16701,4,None,142,None,52,111,7,None,None
+1952,Progressive Conservative,8714,3,None,26,1,116,138,16,None,None
+1968,Co-operative Commonwealth Federation (C.C.F.),97,None,None,4,1,None,3,None,None,None
+1965,Co-operative Commonwealth Federation (C.C.F.),221,None,None,None,1,2,3,1,None,None
+2000,Reform,4041,134,None,44,11,82,90,5,None,None
+1977,Independent,139,None,None,None,None,None,2,None,None,None
+1964,Independent Liberal,19,None,None,None,None,None,None,None,None,None
+1944,New Democracy,67,None,None,None,None,None,1,None,None,None
+1924,Independent Progressive,205,1,None,2,None,1,1,None,None,None
+1931,Progressive Conservative,15,None,None,None,None,None,None,None,None,None
+1903,Independent,315,None,None,3,None,None,6,None,None,None
+1996,New Democratic Party,526,36,1,9,12,26,16,1,None,None
+1956,Progressive Conservative,13360,7,None,63,43,265,208,22,None,None
+1905,Liberal,16036,1,None,101,None,61,140,6,None,None
+2011,Green,222,19,10,1,3,4,3,None,None,None
+1990,Reform,41,2,None,None,None,1,2,None,None,None
+1955,Liberal,14703,13,None,105,28,121,137,15,None,None
+1958,Liberal Labour,832,None,None,None,None,5,7,2,None,None
+1932,Liberal,11193,7,None,99,None,94,116,11,None,None
+1963,Co-operative Commonwealth Federation (C.C.F.),176,None,None,None,1,None,None,None,None,None
+2011,Independent,23,None,None,None,None,None,None,None,None,None
+1975,Social Credit,1353,26,None,2,5,51,66,8,None,None
+1938,Social Credit,1480,None,None,31,None,8,35,2,None,None
+1934,Progressive Conservative,29,None,None,None,None,None,None,None,None,None
+1974,New Democratic Party,3207,72,None,17,22,109,284,86,None,None
+1994,Bloc Québécois,5651,293,2,36,25,122,113,13,None,None
+1971,Independent,6105,9,None,None,3,1,7,1,None,None
+1915,Independent Conservative,90,None,None,1,None,1,1,None,None,None
+1903,Conservative (1867-1942),24055,1,None,153,None,82,203,3,None,None
+1933,Progressive Conservative,10,None,None,None,None,None,None,None,None,None
+1973,Liberal,19871,322,None,22,53,215,563,114,None,None
+1929,United Farmers of Alberta,1763,2,None,9,None,11,18,1,None,None
+1928,United Farmers of Alberta,2009,1,None,22,None,7,33,2,None,None
+1969,Liberal Labour,50,2,None,None,None,None,None,None,None,None
+1901,Independent Labour,84,None,None,2,None,1,None,None,None,None
+1974,No affiliation,1663,2,None,None,None,3,5,4,None,None
+1925,United Farmers of Alberta,260,None,None,3,None,None,2,None,None,None
+1912,Independent Conservative,80,None,None,2,None,1,None,None,None,None
+1998,Independent,152,None,None,None,None,None,None,None,None,None
+1968,Independent,2036,2,None,1,2,4,4,None,None,None
+1965,Independent,15,1,None,None,None,None,2,None,None,None
+1918,Laurier Liberal,5344,2,None,46,None,39,60,3,None,None
+1942,Unity,31,None,None,None,None,1,1,None,None,None
+1933,Liberal,11164,4,None,87,None,62,70,None,None,None
+1953,Independent,116,None,None,1,None,None,2,None,None,None
+1953,Liberal Progressive,34,None,None,None,None,None,None,None,None,None
+1917,Liberal-Conservative,413,None,None,2,None,None,2,None,None,None
+1954,Independent,54,None,None,None,None,1,3,None,None,None
+2013,Bloc Québécois,281,15,2,2,None,9,10,1,None,None
+1954,Liberal Progressive,30,None,None,None,None,None,None,None,None,None
+1941,Social Credit,1072,1,None,24,None,34,23,1,None,None
+1998,New Democratic Party,2226,204,12,42,43,55,44,5,None,None
+1968,New Democratic Party,3885,13,None,25,20,36,90,8,None,None
+1965,New Democratic Party,3279,2,None,11,21,17,30,None,None,None
+1959,Co-operative Commonwealth Federation (C.C.F.),4200,2,None,63,32,83,117,9,None,None
+1993,Independent Conservative,55,3,None,1,None,2,2,None,None,None
+1938,United Farmers of Ontario-Labour,59,None,None,None,None,1,None,None,None,None
+1918,Liberal,204,None,None,2,None,None,2,None,None,None
+1923,Liberal,15683,7,None,155,None,39,119,9,None,None
+1909,Liberal,16237,3,None,116,None,83,142,2,None,None
+1942,Independent,307,None,None,1,None,27,10,4,None,None
+1902,Independent,79,None,None,2,None,None,3,None,None,None
+1942,Liberal Progressive,31,None,None,1,None,1,2,None,None,None
+1971,New Democratic Party,8053,245,None,24,67,141,388,25,None,None
+1980,Liberal,15687,216,None,94,71,578,728,184,None,None
+1934,Liberal,12712,6,None,88,None,105,88,2,None,None
+1974,Independent,29,1,None,None,None,None,1,None,None,None
+1948,Social Credit,1300,1,None,16,None,10,34,1,None,None
+1930,Liberal,9108,1,None,94,None,37,46,None,None,None
+1938,Independent Liberal,1,None,None,None,None,None,None,None,None,None
+1903,Liberal-Conservative,2705,None,None,27,None,16,24,None,None,None
+1939,Social Credit,2744,2,None,90,None,12,72,6,None,None
+2003,Canadian Alliance,5609,175,8,122,39,194,117,2,None,None
+1967,Liberal,21772,57,None,113,44,136,150,12,None,None
+1922,United Farmers of Ontario,35,None,None,None,None,None,2,None,None,None
+1972,Independent,3230,8,None,None,1,1,7,None,None,None
+1995,New Democratic Party,718,54,3,10,10,15,15,None,None,None
+1976,Independent,66,3,None,None,None,None,1,None,None,None
+1927,United Farmers of Ontario,7,None,None,None,None,None,None,None,None,None
+1927,Conservative (1867-1942),6117,None,None,78,None,30,43,3,None,None
+1918,Unionist (Liberal),796,1,None,15,None,5,11,1,None,None
+1964,Ralliement Créditiste,3895,3,None,4,13,23,52,1,None,None
+1949,Progressive Conservative,10122,6,None,82,4,106,177,12,None,None
+1926,United Farmers of Alberta,48,None,None,5,None,2,2,None,None,None
+1922,Conservative (1867-1942),5507,4,None,86,None,24,52,1,None,None
+1940,Independent Conservative,69,None,None,None,None,19,3,1,None,None
+1941,New Democracy,12,None,None,None,None,None,1,None,None,None
+2012,Conservative,18796,1017,82,77,75,376,356,16,None,None
+1949,Liberal,14968,8,None,100,2,124,190,21,None,None
+1939,United Farmers of Ontario-Labour,83,None,None,None,None,None,2,None,None,None
+1924,Progressive,6267,5,None,66,None,23,70,7,None,None
+1920,Unionist,11024,2,None,165,None,51,162,6,None,None
+1914,Independent Conservative,164,None,None,None,None,None,1,None,None,None
+1941,Independent Liberal,17,None,None,None,None,None,2,None,None,None
+1967,Progressive Conservative,12767,39,None,119,49,103,202,19,None,None
+1917,Conservative (1867-1942),17658,3,None,193,None,59,106,5,None,None
+1993,Bloc Québécois,191,15,None,5,None,3,1,None,None,None
+1913,Liberal,6571,2,None,41,None,42,55,3,None,None
+1948,Independent Liberal,860,None,None,5,None,6,13,1,None,None
+1972,New Democratic Party,3730,127,None,22,31,52,156,13,None,None
+1995,Independent,26,None,None,None,None,None,None,None,None,None
+1943,National Government,7935,None,None,84,None,86,113,9,None,None
+1962,Liberal Labour,466,None,None,None,2,3,2,None,None,None
+1902,Liberal-Conservative,854,None,None,8,None,10,14,None,None,None
+1992,Bloc Québécois,594,36,None,1,None,6,5,None,None,None
+1944,Social Credit,1887,1,None,42,None,19,21,3,None,None
+1919,Laurier Liberal,12775,5,None,87,None,40,124,3,None,None
+1940,Independent Liberal,17,None,None,None,None,None,2,None,None,None
+1991,Bloc Québécois,437,6,None,3,None,8,7,None,None,None
+1982,New Democratic Party,6076,129,None,85,117,249,388,135,None,None
+1938,Independent Conservative,17,None,None,1,None,None,1,1,None,None
+1917,Labour,90,None,None,2,None,None,2,None,None,None
+1951,Liberal,19636,2,None,88,2,132,272,23,None,None
+1957,Liberal,12217,4,None,68,15,89,112,10,None,None
+1935,United Farmers of Alberta,1078,1,None,26,None,5,17,None,3,None
+1982,Independent,86,6,None,2,3,11,14,3,None,None
+1948,Independent Progressive Conservative,11,None,None,None,None,None,None,None,None,None
+1904,Liberal,16664,None,None,93,None,114,155,8,None,None
+1951,Progressive Conservative,12737,1,None,58,1,84,168,7,None,None
+1957,Progressive Conservative,11605,3,None,40,17,90,133,11,None,None
+1927,Labour,639,None,None,11,None,5,8,None,None,None
+1921,United Farmers of Ontario-Labour,18,None,None,1,None,None,2,None,None,None
+1927,Liberal Progressive,600,None,None,5,None,None,2,None,None,None
+1927,Independent,292,None,None,2,None,1,4,None,None,None
+1921,Progressive,568,1,None,7,None,None,5,None,None,None
+1964,Social Credit,1486,None,None,5,16,21,29,3,None,None
+1935,Independent Labour,166,2,None,1,None,1,1,None,None,None
+1941,Independent Conservative,73,None,None,1,None,6,1,None,None,None
+1919,Liberal,625,1,None,1,None,None,4,None,None,None
+1922,Labour,285,None,None,12,None,3,4,None,None,None
+1945,National Government,1072,None,None,6,None,5,10,None,None,None
+1940,New Democracy,22,None,None,2,None,None,1,None,None,None
+1922,Independent,25,None,None,None,None,None,None,None,None,None
+1981,Liberal,20208,243,None,55,62,447,603,146,1,None
+1970,Liberal Labour,27,1,None,1,None,4,None,None,None,None
+1972,Liberal Labour,12,None,None,None,None,None,None,None,None,None
+1951,Independent Liberal,18,None,None,None,None,1,2,None,None,None
+1957,Independent Liberal,29,1,None,None,None,None,1,None,None,None
+1910,Conservative (1867-1942),12136,2,None,77,None,63,131,4,None,None
+1952,Social Credit,1318,None,None,20,None,37,67,5,2,None
+1947,Bloc populaire canadien,117,None,None,None,None,None,1,None,None,None
+1946,Independent,116,None,None,1,None,1,2,None,None,None
+1946,Liberal Progressive,6,None,None,None,None,None,None,None,None,None
+1967,Independent Progressive Conservative,194,1,None,None,1,None,2,None,None,None
+1932,Progressive,166,None,None,1,None,1,8,None,None,None
+1911,Nationalist,3,None,None,None,None,None,None,None,None,None
+1966,New Democratic Party,6768,25,None,32,31,81,94,5,None,None
+1945,Independent,96,None,None,None,None,6,3,None,None,None
+1945,Liberal Progressive,3,None,None,None,None,None,None,None,None,None
+1983,Progressive Conservative,15306,182,None,207,101,351,438,98,None,None
+1956,Social Credit,2241,1,None,41,10,96,109,8,None,None
+1940,Liberal,8948,2,None,63,None,57,118,16,None,None
+1945,Unity,9,None,None,None,None,None,None,None,None,None
+1998,Reform,6077,185,8,35,39,79,117,9,None,None
+1994,Liberal,12627,743,13,51,67,150,177,28,None,None
+1935,Conservative (1867-1942),12317,4,None,57,None,58,106,None,None,None
+1987,New Democratic Party,10934,283,1,92,132,197,288,87,None,None
+1940,Progressive Conservative,15,None,None,1,None,None,None,None,None,None
+1983,Liberal,21690,209,None,114,121,255,258,49,None,None
+1943,Unity,44,None,None,1,None,3,3,1,None,None
+1914,Liberal,15471,1,None,165,None,82,130,13,None,None
+1987,Independent,5,None,None,None,None,None,None,None,None,None
+1955,Social Credit,1943,2,None,25,5,36,56,4,None,None
+1994,Progressive Conservative,104,3,None,None,3,2,2,1,None,None
+1949,Independent Progressive Conservative,5,None,None,1,None,None,None,None,None,None
+2013,Liberal,4088,181,60,21,22,89,106,17,None,None
+1943,Liberal Progressive,55,None,None,None,None,None,2,None,None,None
+1979,Social Credit,494,8,None,1,1,21,26,2,None,None
+1943,Independent,282,None,None,1,None,13,4,None,None,None
+1950,Social Credit,1016,None,None,34,None,15,48,1,2,None
+1931,Progressive,164,None,None,3,None,2,5,None,None,None
+1962,Co-operative Commonwealth Federation (C.C.F.),67,None,None,None,None,None,None,None,None,None
+1926,Labour,824,1,None,19,None,1,8,1,None,None
+1921,Unionist (Liberal),1621,None,None,12,None,6,11,None,None,None
+1916,Conservative (1867-1942),9710,2,None,99,None,63,102,11,None,None
+1966,Independent,473,None,None,1,3,1,5,None,None,None
+1913,Independent Conservative,111,None,None,None,None,1,None,None,None,None
+1904,Independent Liberal,1,None,None,None,None,None,None,None,None,None
+1926,Liberal Progressive,2,None,None,None,None,None,None,None,None,None
+1926,Independent,344,2,None,8,None,2,12,None,None,None
+1923,Progressive,4510,2,None,88,None,19,114,2,None,None
+1966,Co-operative Commonwealth Federation (C.C.F.),435,5,None,2,None,4,10,1,None,None
+1941,Progressive Conservative,100,None,None,1,None,4,1,None,None,None
+1970,New Democratic Party,7170,100,None,19,28,124,237,16,None,None
+1973,Social Credit,2516,31,None,4,5,62,117,16,None,None
+1999,Liberal,10520,465,37,54,64,124,96,14,None,None
+1996,Reform,5046,166,1,25,29,145,88,8,None,None
+1943,Co-operative Commonwealth Federation (C.C.F.),3416,1,None,47,None,28,70,13,None,None
+1930,Progressive,416,1,None,4,None,5,2,1,None,None
+1934,Progressive,101,None,None,None,None,None,1,None,None,None
+1927,United Farmers of Alberta,1562,1,None,53,None,21,26,1,None,None
+1986,New Democratic Party,9596,189,None,89,107,268,379,119,None,None
+1933,Progressive,63,None,None,None,None,None,3,None,None,None
+1957,Independent Progressive Conservative,122,None,None,1,None,None,None,None,None,None
+1938,Liberal,15788,4,None,71,None,43,160,12,None,None
+1926,Conservative (1867-1942),14282,2,None,283,None,56,159,13,None,None
+1916,Labour,37,None,None,None,None,None,None,None,None,None
+1948,Progressive Conservative,11748,2,None,113,None,33,124,11,None,None
+1922,United Farmers of Alberta,54,1,None,None,None,None,None,None,None,None
+1918,Progressive,14,None,None,2,None,None,None,None,None,None
+1967,Independent Liberal,2,None,None,None,None,None,None,None,None,None
+1910,Independent,37,None,None,None,None,None,2,None,None,None
+1910,Labour,30,None,None,None,None,None,None,None,None,None
+1986,Independent,5,None,None,None,None,None,None,None,None,None
+1945,Conservative (1867-1942),4,None,None,None,None,None,None,None,None,None
+2000,Independent,25,1,None,None,None,1,None,None,None,None
+1901,Liberal-Conservative,711,None,None,6,None,7,7,None,None,None
+2016,Bloc Québécois,344,21,8,4,None,14,19,2,None,None
+1904,Independent Conservative,352,None,None,1,None,3,2,None,None,None
+1946,Co-operative Commonwealth Federation (C.C.F.),5318,7,None,56,2,36,82,5,None,None
+1999,Progressive Conservative,1776,122,4,21,6,33,46,7,None,None
+1970,Independent,4974,1,None,None,3,3,None,None,None,None
+1945,Co-operative Commonwealth Federation (C.C.F.),3168,5,None,33,None,11,45,1,None,None
+1941,Liberal,11706,1,None,77,None,131,156,9,None,None
+1935,Liberal Progressive,124,None,None,None,None,1,None,None,None,None
+1935,Independent,394,1,None,14,None,2,7,None,None,None
+1949,Independent Liberal,148,None,None,2,None,2,6,None,None,None
+1990,Independent,333,4,None,1,2,2,4,None,None,None
+1935,Labour,1070,None,None,3,None,1,6,None,None,None
+1962,New Democratic Party,4146,7,None,32,96,48,69,10,None,None
+1947,Independent C.C.F.,141,1,None,1,None,None,7,None,None,None
+1964,Liberal Labour,112,None,None,22,None,1,2,3,None,None
+1933,Independent,546,None,None,30,None,10,13,1,None,None
+1973,New Democratic Party,7691,139,None,22,33,224,572,121,None,None
+1933,Liberal Progressive,140,None,None,None,None,None,None,None,None,None
+1937,Independent Conservative,3,None,None,None,None,None,None,None,None,None
+1953,Liberal,13664,2,None,48,1,87,173,16,None,None
+1931,Conservative (1867-1942),13875,3,None,136,None,61,109,7,None,None
+1933,Labour,754,None,None,8,None,1,8,None,None,None
+1954,Liberal,13918,9,1,91,9,92,133,4,None,None
+2008,Independent,183,18,None,2,None,14,18,4,None,None
+1998,Progressive Conservative,1815,96,14,6,19,34,38,2,None,None
+1968,Progressive Conservative,8721,15,None,30,19,34,112,27,None,None
+1965,Progressive Conservative,7243,4,None,25,22,28,56,2,None,None
+1960,Co-operative Commonwealth Federation (C.C.F.),6687,5,None,44,55,36,82,3,None,None
+1958,Independent Liberal,57,None,None,None,1,2,None,None,None,None
+1952,Co-operative Commonwealth Federation (C.C.F.),3068,5,None,39,None,24,57,8,None,None
+1909,Labour,24,None,None,None,None,1,2,None,None,None
+1973,No affiliation,6328,6,None,None,2,8,11,1,None,None
+1923,Independent,7,None,None,None,None,None,None,None,None,None
+1925,Independent Conservative,239,None,None,None,None,None,3,None,None,None
+1910,Nationalist,2,None,None,None,None,None,1,None,None,None
+1909,Independent,11,None,None,None,None,None,None,None,None,None
+1942,Liberal,15285,6,None,75,None,201,347,41,None,None
+1923,Labour,824,None,None,19,None,2,7,1,None,None
+1902,Liberal,1974,1,None,54,None,35,79,1,None,None
+1956,Co-operative Commonwealth Federation (C.C.F.),6774,4,None,44,19,152,159,11,None,None
+1971,Progressive Conservative,17889,325,None,36,62,154,428,70,None,None
+1934,Labour,722,3,None,7,None,3,15,None,None,None
+1930,Labour,673,2,None,21,None,1,3,None,None,None
+1934,Independent,558,None,None,18,None,3,7,None,None,None
+1911,Conservative (1867-1942),9664,None,None,69,None,46,104,3,None,None
+1934,Liberal Progressive,66,None,None,None,None,None,1,None,None,None
+1974,Liberal,12348,172,None,35,46,147,454,156,1,None
+1930,Independent,231,None,None,7,None,1,3,1,None,None
+1930,Liberal Progressive,264,None,None,1,None,None,1,None,None,None
+1947,Independent Liberal,534,None,None,None,None,1,14,1,None,None
+1942,Progressive Conservative,279,None,None,None,None,2,7,2,None,None
+1955,Co-operative Commonwealth Federation (C.C.F.),5118,8,None,75,28,54,109,4,None,None
+1949,Independent C.C.F.,29,None,None,2,None,None,2,None,None,None
+1936,Independent Conservative,6,None,None,None,None,None,None,1,None,None
+1966,Ralliement Créditiste,2345,3,None,4,8,22,33,None,None,None
+1908,Conservative (1867-1942),15745,4,None,92,None,37,87,4,None,None
+1988,Independent Liberal,20,1,None,None,None,None,None,None,None,None
+1961,New Party,157,None,None,1,2,1,1,None,None,None
+1974,Progressive Conservative,9750,171,None,82,45,200,590,202,1,None
+1935,Progressive,119,1,None,2,None,3,4,2,None,None
+1971,Liberal,22726,310,None,27,51,159,391,42,None,None
+1980,New Democratic Party,4122,128,None,43,47,253,322,80,None,None
+1954,Progressive Conservative,8571,5,None,33,10,70,103,11,None,None
+1905,Conservative (1867-1942),14349,1,None,73,None,47,113,6,None,None
+1973,Independent,139,6,None,None,None,None,8,1,None,None
+1901,Independent Conservative,523,None,None,6,None,2,5,None,None,None
+1953,Progressive Conservative,9510,1,None,43,2,90,162,8,None,None
+1904,Liberal-Conservative,2213,None,None,5,None,14,14,None,None,None
+1950,Co-operative Commonwealth Federation (C.C.F.),3436,None,None,45,1,55,83,10,None,None
+1932,Conservative (1867-1942),13435,2,None,92,None,86,138,21,None,None
+1925,Independent Progressive,380,None,None,5,None,None,3,None,None,None
+1962,Social Credit,1261,None,None,2,6,13,20,1,None,None
+1998,Liberal,10802,421,42,49,89,107,109,15,None,None
+1968,Liberal,12278,32,None,38,19,74,95,16,None,None
+1965,Liberal,11900,9,None,25,22,44,55,6,None,None
+1979,Independent,53,1,None,None,None,None,2,None,None,None
+1943,Social Credit,1873,1,None,45,None,18,61,4,None,None
+1950,Liberal Progressive,32,None,None,None,None,None,None,None,None,None
+1950,Independent,129,None,None,None,None,8,3,None,None,None
+1908,Independent,28,None,None,None,None,None,None,None,None,None
+1959,Progressive Conservative,18143,16,None,142,76,157,254,33,None,None
+1908,Labour,3,None,None,1,None,None,None,None,None,None
+1990,Bloc Québécois,21,None,None,None,None,None,None,None,None,None
+1966,Social Credit,1086,2,None,1,6,19,25,2,None,None
+1944,National Government,11551,2,None,64,None,53,135,6,None,None
+1977,Liberal,22893,300,None,55,105,197,362,50,1,None
+1924,United Farmers of Alberta,106,None,None,3,None,1,3,None,None,None
+1996,Progressive Conservative,99,2,None,1,None,None,None,None,None,None
+1903,Liberal,8821,3,None,113,None,56,148,1,None,None
+1905,Independent,33,None,None,None,None,1,None,None,None,None
+1963,Liberal,16424,15,None,47,173,72,143,14,None,None
+2000,Bloc Québécois,3523,131,3,34,16,109,84,19,None,None
+1958,Independent Progressive Conservative,86,None,None,2,None,None,None,None,None,None
+1955,Independent,100,None,None,2,None,2,2,None,None,None
+2016,Independent,12,1,None,None,None,None,None,None,None,None
+1955,Liberal Progressive,92,None,None,None,None,1,2,None,None,None
+1932,Labour,705,None,None,7,None,2,9,None,None,None
+1985,New Democratic Party,9650,248,None,61,138,231,447,88,1,None
+1949,Bloc populaire canadien,30,None,None,1,None,1,None,None,None,None
+1932,Independent,421,None,None,8,None,6,12,None,None,None
+1932,Liberal Progressive,302,None,None,None,None,2,6,1,None,None
+1956,Liberal Progressive,101,None,None,None,None,None,1,None,None,None
+1931,Independent,674,None,None,50,None,11,14,None,None,None
+1996,Liberal,9950,530,25,38,74,156,103,19,1,None
+1956,Independent,99,None,None,None,None,3,4,None,None,None
+1931,Liberal Progressive,361,None,None,1,None,3,4,None,None,None
+1913,Liberal-Conservative,217,None,None,None,None,1,None,None,None,None
+1933,Conservative (1867-1942),12726,1,None,103,None,42,83,3,None,None
+1931,Labour,613,None,None,9,None,1,11,None,None,None
+1930,United Farmers of Ontario,4,None,None,None,None,None,None,None,None,None
+1923,United Farmers of Ontario,24,None,None,1,None,None,None,None,None,None
+1918,Conservative (1867-1942),510,None,None,2,None,8,6,1,None,None
+1970,Ralliement Créditiste,1327,6,None,2,1,21,48,1,None,None
+1963,Progressive Conservative,11608,8,None,49,182,66,149,26,1,None
+2016,New Democratic Party,3653,214,77,20,8,70,85,8,None,None
+1926,Progressive,2309,None,None,43,None,5,35,3,None,None
+1936,Independent Liberal,2,None,None,None,None,None,1,None,None,None
+1909,Conservative (1867-1942),14876,10,None,87,None,64,119,1,None,None
+1959,Liberal,13032,6,None,163,60,133,213,18,None,None
+1947,Independent Progressive Conservative,70,None,None,None,None,1,None,None,None,None
+1979,New Democratic Party,2641,90,None,23,28,102,282,54,2,None
+1952,Liberal Progressive,41,None,None,None,None,None,1,None,None,None
+1923,Conservative (1867-1942),10878,2,None,103,None,22,101,6,None,None
+1952,Independent,155,None,None,2,None,6,6,None,None,None
+1934,Conservative (1867-1942),14222,2,None,96,None,57,95,1,None,None
+1911,Independent,32,None,None,None,None,None,None,None,None,None
+1946,Social Credit,1731,3,None,28,None,19,37,None,None,None
+1930,Conservative (1867-1942),8267,1,None,112,None,40,64,1,None,None
+1911,Labour,56,None,None,None,None,None,None,None,None,None
+1945,Social Credit,1469,None,None,13,None,4,26,1,None,None
+1963,Independent Liberal,8,None,None,None,1,None,None,None,None,None
+1933,Independent Labour,61,None,None,1,None,None,2,None,None,None
+1993,Independent,27,None,None,None,None,None,1,None,None,None
+1995,Bloc Québécois,4567,183,2,23,16,101,75,6,None,None
+1969,Progressive Conservative,12352,52,None,25,43,65,268,45,None,None
+1939,Co-operative Commonwealth Federation (C.C.F.),3001,5,None,37,None,9,29,None,None,None
+1903,Independent Liberal,5,None,None,None,None,None,None,None,None,None
+1924,United Farmers of Ontario,27,None,None,None,None,None,None,None,None,None
+1919,Unionist,16918,6,None,131,None,48,167,11,None,None
+1937,Liberal,9853,3,None,72,None,38,106,3,None,None
+1948,Bloc populaire canadien,49,None,None,None,None,2,None,None,None,None
+1939,Conservative (1867-1942),8881,3,None,79,None,27,116,1,None,None
+1929,Liberal,11600,3,None,94,None,57,50,3,None,None
+1928,Liberal,12804,3,None,124,None,49,100,5,None,None
+1924,Conservative (1867-1942),13144,3,None,140,None,18,82,9,None,None
+2004,Progressive Conservative,620,24,2,1,None,14,15,None,None,None
+1902,Independent Conservative,136,None,None,2,None,2,1,None,None,None
+1934,Independent Labour,117,None,None,1,None,2,3,None,None,None
+1925,Liberal,15812,1,None,205,None,47,104,11,None,None
+1978,Liberal,19108,245,None,44,69,209,283,95,1,None
+2010,Independent,34,1,None,None,1,None,None,None,None,None
+1997,Progressive Conservative,834,51,9,6,4,26,17,3,None,None
+1921,Independent,30,None,None,1,None,None,1,None,None,None
+1933,United Farmers of Alberta,1007,None,None,18,None,5,15,2,None,None
+1921,Nationalist Liberal,580,None,None,9,None,3,2,None,None,None
+1915,Labour,50,None,None,1,None,1,2,None,None,None
+1927,Progressive,378,None,None,2,None,None,6,None,None,None
+1936,Liberal,14636,6,None,73,None,61,142,13,None,None
+1959,Independent Liberal,1,None,None,None,None,None,None,None,None,None
+1922,Progressive,3291,3,None,55,None,27,66,None,None,None
+1944,Unity,48,None,None,None,None,1,3,1,None,None
+1968,Independent Progressive Conservative,28,None,None,None,None,None,None,None,None,None
+1912,Labour,12,None,None,1,None,1,1,1,None,None
+1993,New Democratic Party,2879,298,2,26,7,46,87,18,None,None
+2015,Liberal,3800,209,74,58,16,72,148,10,None,None
+1923,United Farmers of Alberta,127,None,None,1,None,1,6,None,None,None
+1944,Liberal Progressive,74,None,None,1,None,1,2,None,None,None
+1901,Liberal,2936,2,None,45,None,13,58,3,None,None
+1944,Independent,491,None,None,2,None,12,8,None,None,None
+1934,United Farmers of Alberta,944,1,None,8,None,6,11,2,None,None
+1930,United Farmers of Alberta,991,1,None,12,None,4,18,None,None,None
+1964,New Democratic Party,6828,13,None,15,50,27,60,4,None,None
+1969,Liberal,17565,84,None,33,72,118,242,20,None,None
+1944,Co-operative Commonwealth Federation (C.C.F.),4287,3,None,52,None,30,83,9,None,None
+1921,Conservative (1867-1942),1493,None,None,15,None,27,24,6,None,None
+1992,New Democratic Party,4028,312,7,48,56,69,94,15,None,None
+1988,Progressive Conservative,22640,663,4,131,124,209,291,48,None,None
+1931,United Farmers of Alberta,915,1,None,15,None,3,13,2,None,None
+1915,Conservative (1867-1942),8358,1,None,83,None,31,91,6,None,None
+1950,Liberal Labour,30,None,None,1,None,1,1,1,None,None
+1947,Progressive Conservative,12856,4,None,120,None,39,133,4,None,None
+1942,Independent Liberal,195,None,None,1,None,10,7,None,None,None
+1961,Progressive Conservative,24351,24,None,132,148,195,331,47,None,None
+1920,Liberal,1795,1,None,24,None,6,9,None,None,None
+1912,Conservative (1867-1942),5107,1,None,32,None,24,30,None,None,None
+1955,Liberal Labour,295,None,None,1,None,None,None,None,None,None
+1958,Liberal,11325,5,None,152,41,53,131,3,None,None
+1991,New Democratic Party,4222,231,5,62,72,68,143,13,None,None
+1903,Independent Conservative,472,None,None,4,None,1,1,None,None,None
+2015,Forces et Démocratie,44,5,1,None,None,3,5,None,None,None
+1953,Independent Liberal,4,None,None,None,None,1,None,None,None,None
+1984,Liberal,14879,187,None,44,92,194,208,51,None,None
+1921,United Farmers of Ontario,11,None,None,None,None,4,None,None,None,None
+2003,New Democratic Party,1867,140,5,68,31,76,46,1,3,None
+1921,United Farmers,118,None,None,4,None,1,3,None,None,None
+1932,Independent Labour,58,None,None,1,None,1,5,1,None,None
+1931,Independent Labour,64,None,None,2,None,None,2,None,None,None
+1991,Independent,72,1,None,2,1,None,4,None,None,None
+1920,Laurier Liberal,8214,None,None,93,None,45,75,None,None,None
+1958,Progressive Conservative,16275,12,None,146,64,107,229,26,None,None
+2014,Forces et Démocratie,19,4,None,1,None,1,5,None,None,None
+1965,Independent Liberal,10,None,None,None,None,None,None,None,None,None
+1961,Liberal,15473,9,None,95,105,72,129,2,None,None
+2003,Independent,25,None,None,None,None,None,None,None,None,None
+1956,Liberal Labour,214,None,None,None,None,1,1,2,None,None
+1948,Independent C.C.F.,120,None,None,None,None,1,4,None,None,None
+1984,Progressive Conservative,13973,182,None,68,126,310,305,101,None,None
+2015,Conservative,10534,485,42,174,39,225,340,29,None,None
+1964,Co-operative Commonwealth Federation (C.C.F.),301,None,None,None,2,2,4,None,None,None
+1924,Labour,921,3,None,7,None,4,7,None,None,None
+1971,Independent Liberal,21,None,None,None,None,None,None,None,None,None
+1939,Liberal Progressive,127,None,None,3,None,3,2,1,None,None
+1939,Independent,335,None,None,4,None,None,8,None,None,None
+1924,Independent,28,None,None,None,None,None,1,None,None,None
+1947,Liberal,18365,9,None,128,None,50,146,12,None,None
+1972,Social Credit,884,13,None,1,1,9,22,1,None,None
+2004,Conservative,2767,120,8,13,13,77,114,7,None,None
+1932,United Farmers of Alberta,1449,2,None,46,None,6,24,1,None,None
+1942,New Democracy,9,None,None,None,None,None,None,None,None,None
+1914,Liberal-Conservative,63,None,None,None,None,None,None,None,None,None
+1960,Liberal Labour,1068,None,None,5,None,7,9,1,None,None
+1952,Liberal Labour,79,None,None,None,None,None,1,None,None,None
+1941,Unity,44,None,None,None,None,2,3,None,None,None
+1910,Liberal,13998,5,None,109,None,87,157,11,None,None
+1975,New Democratic Party,5207,90,None,17,54,251,387,80,None,None
+1912,Liberal-Conservative,478,None,None,8,None,None,5,None,None,None
+1904,Independent Labour,70,None,None,None,None,None,None,None,None,None
+1986,Liberal,11471,174,None,53,47,291,390,98,None,None
+1942,Social Credit,1523,None,None,17,None,25,43,3,None,None
+2000,Liberal,7727,303,28,38,34,164,130,16,None,None
+1974,Social Credit,863,10,None,7,4,20,67,6,None,None
+1948,Independent,128,1,None,None,None,7,5,None,None,None
+1940,Co-operative Commonwealth Federation (C.C.F.),1301,2,None,35,None,6,24,2,None,None
+1948,Liberal Progressive,2,None,None,None,None,None,None,None,None,None
+1999,New Democratic Party,2348,207,5,45,40,63,60,5,None,None
+1922,Independent Conservative,191,None,None,5,None,1,3,None,None,None
+1953,Social Credit,1278,None,None,36,None,21,68,4,None,None
+1940,Conservative (1867-1942),771,None,None,6,None,10,24,3,None,None
+1941,Independent,138,None,None,3,None,5,6,None,None,None
+1970,Liberal,18523,150,None,43,37,164,405,37,None,None
+1954,Social Credit,1214,1,None,31,3,26,36,1,None,None
+1941,Liberal Progressive,30,None,None,None,None,1,None,None,None,None
+1935,Liberal,10270,2,None,29,None,49,63,None,None,None
+1918,Unionist,6146,2,None,71,None,33,70,1,None,None
+1990,Liberal,9528,600,2,54,38,161,250,26,None,None
+1962,Progressive Conservative,18494,21,1,89,106,121,165,34,None,None
+1970,Progressive Conservative,13420,145,None,39,33,100,367,54,None,None
+1963,Ralliement Créditiste,1529,1,None,2,42,9,22,1,None,None
+1999,Independent,83,None,None,None,None,None,None,None,None,None
+1944,Bloc populaire canadien,80,None,None,1,None,2,2,None,None,None
+1990,Progressive Conservative,17726,762,16,39,40,179,291,53,None,None
+1962,Liberal,12310,7,None,55,130,51,108,12,None,None
+2013,Green,466,45,7,10,1,21,18,11,None,None
+1968,Social Credit,165,1,None,1,1,None,4,None,None,None
+1965,Social Credit,770,1,None,None,5,3,4,None,None,None
+1935,Progressive Conservative,27,None,None,None,None,None,1,None,None,None
+1920,Unionist (Liberal),1324,None,None,9,None,6,7,None,None,None
+1914,Conservative (1867-1942),14090,1,None,157,None,69,109,8,None,None
+1972,Independent Liberal,57,2,None,None,None,1,1,None,None,None
+1951,Liberal Labour,121,None,None,None,None,1,1,1,None,None
+1957,Liberal Labour,493,None,None,None,None,8,3,None,None,None
+1986,Progressive Conservative,24649,417,None,81,111,413,445,160,None,None
+1996,Bloc Québécois,4530,216,None,44,31,165,101,17,None,None
+1975,Independent,152,None,None,None,None,4,5,1,None,None
+2000,Progressive Conservative,1437,77,2,27,3,44,37,3,None,None
+1938,Liberal Progressive,171,None,None,2,None,1,2,None,None,None
+1938,Independent,663,None,None,5,None,3,9,None,None,None
+1922,Independent Progressive,135,None,None,3,None,None,2,None,None,None
+1971,Social Credit,1249,10,None,2,11,12,39,1,None,None
+1917,Independent Conservative,129,None,None,8,None,2,2,1,None,None
+1916,Liberal,11711,4,None,101,None,70,144,8,None,None
+1968,Ralliement Créditiste,1153,1,None,3,6,13,36,1,None,None
+1965,Ralliement Créditiste,1562,2,None,None,2,4,7,None,None,None
+1938,Co-operative Commonwealth Federation (C.C.F.),1911,2,None,5,None,14,30,None,None,None
+1983,Independent,67,None,None,2,4,3,3,1,None,None
+1963,Social Credit,2010,1,None,10,61,17,25,3,None,None
+1987,Liberal,11673,188,1,111,64,221,225,69,None,None
+1949,Liberal Labour,9,None,None,None,None,3,2,1,None,None
+1927,Independent Liberal,7,None,None,None,None,None,None,None,None,None
+1914,Labour,77,None,None,6,None,2,None,None,None,None
+1994,New Democratic Party,716,64,None,2,11,9,18,1,None,None
+1971,Ralliement Créditiste,463,12,None,1,2,10,28,1,None,None
+1943,Liberal,15502,9,None,142,None,146,284,42,None,None
+2013,Independent,199,12,3,1,None,5,17,None,None,None
+1966,Liberal,26773,47,None,65,48,147,148,12,None,None
+1945,Progressive Conservative,6780,4,None,51,None,41,114,6,None,None
+1926,Liberal,12441,3,None,153,None,47,89,9,None,None
+1938,Conservative (1867-1942),10578,2,None,78,None,38,97,7,None,None
+1940,Unity,16,None,None,None,None,1,None,None,None,None
+1943,Progressive Conservative,1577,2,None,16,None,19,52,6,None,None
+1946,Liberal,15241,5,None,98,2,43,143,14,None,None
+1998,Bloc Québécois,3133,132,8,36,29,73,44,2,None,None
+1966,Progressive Conservative,16402,27,None,108,57,127,191,20,None,None
+1945,Liberal,10806,4,None,67,None,57,121,5,None,None
+1941,Co-operative Commonwealth Federation (C.C.F.),1823,2,None,36,None,39,34,None,None,None
+1983,New Democratic Party,6752,132,None,171,157,100,197,42,1,None
+2011,Bloc Québécois,1206,49,14,10,16,55,54,2,None,None
+1944,Labour Progressive,79,None,None,None,None,1,7,None,None,None
+1941,Conservative (1867-1942),710,3,None,7,None,15,23,None,None,None
+1940,Liberal Progressive,24,None,None,None,None,None,2,None,None,None
+1948,Co-operative Commonwealth Federation (C.C.F.),5937,7,None,102,1,32,94,6,None,None
+1940,Independent,162,None,None,2,None,1,1,None,None,None
+1994,Independent,14,1,None,None,None,None,None,None,None,None
+1987,Progressive Conservative,25550,479,None,127,128,328,410,91,None,None
+1966,Independent Liberal,11,None,None,None,None,None,None,None,None,None
+1904,Independent,76,None,None,4,None,3,3,None,None,None
+1989,Reform,40,None,None,None,None,None,None,None,None,None
+1945,New Democracy,2,None,None,1,None,None,None,None,None,None
+1940,National Government,5509,None,None,38,None,34,69,4,None,None
+1943,Independent Liberal,134,None,None,2,None,3,8,None,None,None
+1910,Independent Conservative,116,None,None,None,None,1,3,None,None,None
+1990,Independent Conservative,22,None,None,1,None,1,2,None,None,None
+1927,Liberal,7254,1,None,93,None,30,46,1,None,None
+2012,Independent,158,17,1,None,None,7,21,3,None,None
+1919,Independent,19,None,None,1,None,1,1,None,None,None
+1967,Co-operative Commonwealth Federation (C.C.F.),253,1,None,None,None,6,16,5,None,None
+1937,Social Credit,550,None,None,13,None,6,21,None,None,None
+1936,United Farmers of Ontario-Labour,89,None,None,1,None,None,1,None,None,None
+1922,Liberal,7650,None,None,96,None,34,78,2,None,None
+1909,Liberal-Conservative,732,1,None,22,None,5,13,None,None,None
+1929,Progressive,682,1,None,3,None,3,12,1,None,None
+1928,Progressive,626,1,None,6,None,6,11,1,None,None
+2005,Independent,68,1,None,None,None,None,None,None,None,None
+1991,Reform,32,1,None,1,1,2,4,1,None,None
+1949,Conservative (1867-1942),1,None,None,None,None,None,None,None,None,None
+1981,New Democratic Party,4784,167,None,33,57,305,334,131,None,None
+1925,Progressive,8480,3,None,107,None,26,77,3,None,None
+2012,New Democratic Party,13926,1285,146,66,77,285,484,18,2,None
+2004,Canadian Alliance,2722,125,4,7,11,90,59,1,1,None
+1978,Social Credit,809,20,None,2,2,27,32,4,None,None
+1916,Independent Conservative,166,None,None,2,None,2,1,2,None,None
+1946,Independent Liberal,580,None,None,None,None,4,8,1,None,None
+1921,Unionist,10585,1,None,134,None,92,133,4,None,None
+1917,Liberal,18984,2,None,300,None,82,131,1,None,None
+1913,Conservative (1867-1942),6505,None,None,29,None,31,28,None,None,None
+1982,Progressive Conservative,15257,190,None,97,104,689,827,302,1,None
+1992,Reform,25,1,None,None,None,None,None,None,None,None
+1945,Independent Liberal,338,None,None,None,None,4,5,None,None,None
+1951,Independent,368,None,None,2,None,6,12,None,None,None
+1937,United Farmers of Ontario-Labour,51,None,None,None,None,2,None,None,None,None
+1936,Social Credit,839,4,None,17,None,10,20,None,1,None
+1951,Liberal Progressive,68,None,None,None,None,2,1,None,None,None
+1957,Liberal Progressive,55,None,None,None,None,None,None,None,None,None
+1949,Co-operative Commonwealth Federation (C.C.F.),5007,10,None,75,None,35,98,None,None,None
+1957,Independent,137,1,None,None,1,3,4,None,None,None
+1943,New Democracy,25,None,None,None,None,None,None,None,None,None
+1997,Bloc Québécois,3112,118,6,26,15,77,57,4,None,None
+1951,Co-operative Commonwealth Federation (C.C.F.),5295,6,None,72,None,45,90,5,None,None
+1957,Co-operative Commonwealth Federation (C.C.F.),6123,6,None,24,19,87,155,19,None,None
+1949,Liberal Progressive,16,None,None,None,None,None,None,None,None,None
+1969,Ralliement Créditiste,2139,13,None,6,11,22,48,1,None,None
+1949,Independent,158,None,None,2,None,2,4,None,None,None
+1993,Reform,22,None,None,None,None,None,None,None,None,None
+1958,Social Credit,409,1,None,24,3,14,23,None,None,None
+1911,Liberal-Conservative,329,None,None,16,None,None,1,None,None,None
+1926,Independent Conservative,139,None,None,6,None,1,2,None,None,None
+1967,New Democratic Party,5583,10,None,70,45,47,99,16,None,None
+1913,Labour,15,None,None,2,None,None,1,None,None,None
+1966,Independent Progressive Conservative,352,3,None,None,2,1,3,None,None,None
+1910,Independent Liberal,9,None,None,None,None,None,None,None,None,None
+1972,Progressive Conservative,6878,151,None,26,11,56,152,22,None,None
+2014,Bloc Québécois,136,12,1,2,None,12,14,None,None,None
+1995,Liberal,11845,676,35,59,45,164,122,41,None,None
+2015,Bloc Québécois,91,6,1,None,None,1,6,None,None,None
+2006,Independent,20,None,None,None,None,None,None,None,None,None
+1919,United Farmers,1,None,None,None,None,None,None,None,None,None
+1945,Independent Progressive Conservative,9,None,None,None,None,None,None,None,None,None
+1920,Progressive,314,None,None,2,None,1,3,None,None,None
+1905,Liberal-Conservative,1660,None,None,12,None,6,21,None,None,None
+1946,Independent Progressive Conservative,15,None,None,None,None,None,1,None,None,None
+1941,National Government,7462,1,None,28,None,72,75,2,None,None
+2012,Green,700,80,14,2,8,26,44,None,None,None
+1904,Conservative (1867-1942),14147,None,None,50,None,104,172,11,None,None
+1967,Independent,866,1,None,None,3,5,12,None,None,None
+1920,United Farmers of Ontario-Labour,15,None,None,None,None,None,1,None,None,None
+1947,Social Credit,2102,2,None,40,None,13,26,2,1,None
+1972,Liberal,9171,173,None,22,23,72,175,7,None,None
+1995,Progressive Conservative,127,6,None,None,1,1,2,None,None,None
+1962,Independent Liberal,3,None,None,None,None,None,None,None,None,None
+1908,Liberal-Conservative,858,None,None,6,None,1,8,None,None,None
+2009,Independent,24,3,2,None,None,1,1,None,None,None
+1919,Conservative (1867-1942),266,None,None,10,None,None,3,None,None,None
