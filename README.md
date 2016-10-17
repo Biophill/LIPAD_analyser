@@ -16,6 +16,10 @@ discussion about petrol, oil, gas during the 1973 oil crisis and the presence of
 a peak for climate change, solar power and wind power after the 1997 signature
 of the kyoto protocol. These events are pointed out on the exemple visualisation.
 
+##Specifications:
+  This visualisation is adapted to any recent version of the firefox browser, 
+or on a local server using chrome or edge.
+
 ##Content:
 ###HTML file:
   Exemple of a visualisation using environment and energy related key words.
